@@ -1,7 +1,7 @@
 # MASKman4830
 My neme is maskman4830 or maskman1202.
 
-Please call me mask.
+Please call me MASK.
 
 I'm 15years old.
 I live in japan
