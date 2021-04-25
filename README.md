@@ -7,5 +7,6 @@ I'm 15years old.
 I live in japan
 
 The language I can do now is javascript
+
 I'm making a bot by copy and paste
 Please tell me programming
