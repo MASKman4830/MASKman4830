@@ -17,3 +17,6 @@ I'm studying python now
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASKman4830&hide=contribs,prs)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MASKman4830&count_private=true)
