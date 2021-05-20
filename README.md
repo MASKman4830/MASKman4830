@@ -13,3 +13,5 @@ Please tell me programming
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MASKman4830)](https://github.com/MASKman4830/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MASKman4830&layout=compact)](https://github.com/MASKman4830/github-readme-stats)
